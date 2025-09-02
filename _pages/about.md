@@ -135,7 +135,7 @@ My research interest includes:
 [[Newsreport]](https://events.polyu.edu.hk/prsc2024/listofawardees)
 - *2025.7.2-4*, The 3rd PolyU Research Student Conference (PRSC 2025), Hong Kong, China. Topic: *Liner fleet deployment and slot allocation problem: A distributionally robust optimization model with joint chance constraints*. Award: `Best Paper Merit`.
 [[Newsreport]](https://events.polyu.edu.hk/prsc2025/awardee)
-
+- *2025.8.26-29*, The 19th International Conference on Innovative Computing, Information and Control (ICICIC2025), Kitakyushu, Japan. Topic: *Liner shipping fleet planning with uncertain demand: a data-driven distributionally robust chance-constrained optimization approach*. [[HTML]](http://www.icicconference.org/icicic2025/)
 
 <span class='anchor' id='-services'></span>
 
