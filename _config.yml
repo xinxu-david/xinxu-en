@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xu (David) Xin"
-description              : #"Tongji University, Shanghai, China."
+description              : "The Hong Kong Polytechnic University, Hong Kong, China."
 repository               : "xinxu-david/xinxu-david.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -25,7 +25,7 @@ author:
   avatar           : "images/logo.png"
   bio              : "Postdoctoral fellow"
   location         : "Hong Kong, China"
-  employer         : "The Hong Kong Polytechnic University"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=EPQMk1kAAAAJ"
   email            : "xu-david.xin@connect.polyu.hk"
