@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xu Xin (辛旭), David"
   avatar           : "images/logo.png"
-  bio              : "The Hong Kong Polytechnic University, Hong Kong, China."
-  location         : "Hong Kong & Shanghai, China"
-  employer         : #"Hefei General Machinery Research Institute"
+  bio              : "Postdoctoral fellow"
+  location         : "Hong Kong, China"
+  employer         : "The Hong Kong Polytechnic University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=EPQMk1kAAAAJ"
   email            : "xu-david.xin@connect.polyu.hk"
