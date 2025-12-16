@@ -96,6 +96,8 @@ My research interest includes:
 
 - Gao, S., `Xin, X.*`, Li, C., Liu, Y., & Chen, K. (2022). Container ocean shipping network design considering carbon tax and choice inertia of cargo owners. *Ocean & Coastal Management*, 216, 105986. [[HTML]](https://www.sciencedirect.com/science/article/pii/S0964569121004695)
 
+- Chen, K., Yi, X, `Xin, X.`, & Shan, H. (2026). Spatial evolution of liner bunkering hubs in Asia–Europe: Green fuel adoption under demand and fuel price uncertainty. *Transport Policy*, xx(x), xx. [HTML]
+
 - Liu, M., Lai, K. H., Wong, C. W., `Xin, X.`, & Lun, V. Y. (2025). Smart ports for sustainable shipping: concept and practices revisited through the case study of China’s Tianjin port. *Maritime Economics & Logistics*, 27(1), 50-95. [[HTML]](https://link.springer.com/article/10.1057/s41278-024-00291-3)
 
 ### Chinese articles
@@ -157,7 +159,7 @@ My research interest includes:
 
 ### Ad Hoc Journal Reviewer
 ---
-- Transportation Research Part B: Methodological; Transportation Research Part E: Logistics and Transportation Review; Transport Policy; IEEE Transactions on Engineering Management; Computers & Operations Research; Computers in Industry; Computers & Industrial Engineering; Maritime Policy & Management; Maritime Economics & Logistics; Applied Economics; Applied Energy; Cities; International Journal of Shipping and Transport Logistics; Research in Transportation Economics; International Journal of Logistics; Advanced Engineering Informatics; Ocean & Coastal Management
+- Transportation Research Part B: Methodological; Transportation Research Part C: Emerging Technologies; Transportation Research Part E: Logistics and Transportation Review; Transport Policy; IEEE Transactions on Engineering Management; Computers & Operations Research; Computers in Industry; Computers & Industrial Engineering; Maritime Policy & Management; Maritime Economics & Logistics; Applied Economics; Applied Energy; Cities; International Journal of Shipping and Transport Logistics; Research in Transportation Economics; International Journal of Logistics; Advanced Engineering Informatics; Ocean & Coastal Management
 
 <span class='anchor' id='-friends'></span>
 
