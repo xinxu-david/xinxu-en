@@ -156,6 +156,7 @@ My research interest includes:
 ---
 - PLOS ONE (Academic Editor)
 - Frontiers in Marine Science (Guest Editor), SI: Challenges and Opportunities for Decarbonizing the Maritime Industry, 2024 (with K. Chen, Z. Yang and L. Xu) [[HTML]](https://www.frontiersin.org/research-topics/66593/challenges-and-opportunities-for-decarbonizing-the-maritime-industry)
+- Systems (Guest Editor), SI: Advanced Transportation Systems and Logistics in Modern Cities, 2025 (with K. Chen) 
 
 ### Ad Hoc Journal Reviewer
 ---
