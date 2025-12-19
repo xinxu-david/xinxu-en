@@ -146,7 +146,7 @@ My research interest includes:
 
 ### Committee Service
 ---
-- Faculty Research Committee (FRC) Member, Faculty of Business (2024-2025, The Hong Kong Polytechnic University)
+- Faculty Research Committee (FRC) Member, Faculty of Business, The Hong Kong Polytechnic University, 2024-2025
 
 ### Conference Organization
 ---
@@ -154,9 +154,9 @@ My research interest includes:
 
 ### Editorship
 ---
-- PLOS ONE (Academic Editor)
-- Frontiers in Marine Science (Guest Editor), SI: Challenges and Opportunities for Decarbonizing the Maritime Industry, 2024 (with K. Chen, Z. Yang and L. Xu) [[HTML]](https://www.frontiersin.org/research-topics/66593/challenges-and-opportunities-for-decarbonizing-the-maritime-industry)
-- Systems (Guest Editor), SI: Advanced Transportation Systems and Logistics in Modern Cities, 2025 (with K. Chen) 
+- [PLOS One](https://journals.plos.org/plosone/) (Academic Editor)
+- [Frontiers in Marine Science](https://www.frontiersin.org/journals/marine-science) (Guest Editor), SI: Challenges and Opportunities for Decarbonizing the Maritime Industry, 2024 (with K. Chen, Z. Yang and L. Xu) [[HTML]](https://www.frontiersin.org/research-topics/66593/challenges-and-opportunities-for-decarbonizing-the-maritime-industry)
+- [Systems](https://www.mdpi.com/journal/systems) (Guest Editor), SI: Advanced Transportation Systems and Logistics in Modern Cities, 2025 (with K. Chen)
 
 ### Ad Hoc Journal Reviewer
 ---
