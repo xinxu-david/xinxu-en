@@ -121,13 +121,13 @@ My research interest includes:
 - *2016.05* Win the `National 2nd Prize` in the 11th National Competition of Transport Science and Technology for Students (NACTranS) (Instructor: Prof. Zhongzhen Yang)
 - *2016.06* Win the `National 2nd Prize` in the 2nd National Shipping Innovation Competition for College Students (Instructor: Prof. Kang Chen)
 - *2019.05* Win the `3rd Prize` in the Tan Kah Kee Inventors’ Award (Shanghai)
-- *2019.07* Win the `Provincial 2nd Prize` in the 9th National Competition on E-Commerce Innovation, Originality and Entrepreneurship for College Students
+- *2019.07* Win the `Provincial 2nd Prize` in the 9th National Competition on “Innovation, Creativity & Entrepreneurship” Challenge for College Students
 - *2019.08* Win the `National 3rd Prize` in the 12th National College Social Practice and Science Contest on Energy Saving & Emission Reduction
 - *2019.12* Win the `National 2nd Prize` in the 16th China Post-Graduate Mathematical Contest in Modeling
 - *2020.08* Win the `National 2nd Prize` in the 13th National College Social Practice and Science Contest on Energy Saving & Emission Reduction
-- *2021.08* Win the `Provincial 2nd Prize` in 11th National Competition on E-Commerce Innovation, Originality and Entrepreneurship for College Students
+- *2021.08* Win the `Provincial 2nd Prize` in 11th National Competition on “Innovation, Creativity & Entrepreneurship” Challenge for College Students
 - *2021.10* Win the `National 3rd Prize (Bronze Award)` in the 7th China College Students’ “Internet+” Innovation and Entrepreneurship Competition
-- *2022.07* Win the `Provincial 1st Prize` in the 12th National Competition on E-Commerce Innovation, Originality and Entrepreneurship for College Students
+- *2022.07* Win the `Provincial 1st Prize` in the 12th National Competition on “Innovation, Creativity & Entrepreneurship” Challenge for College Students
 - *2022.08* Win the `National 1st Prize` in the 15th National College Social Practice and Science Contest on Energy Saving & Emission Reduction [[Newsreport]](https://news.tongji.edu.cn/info/1003/81684.htm)
 - *2023.08* Win the `National 2nd Prize` and `National 3rd Prize` in the 16th National College Social Practice and Science Contest on Energy Saving & Emission Reduction
 - *2024.08* Win the `National 2nd Prize` in the 17th National College Social Practice and Science Contest on Energy Saving & Emission Reduction
