@@ -18,10 +18,12 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Hi there! 👋
-I am currently serving as a postdoctoral fellow at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk). If you are seeking any form of **academic cooperation**, please feel free to email me at <x.xin@polyu.edu.hk> or <xu-david.xin@connect.polyu.hk>.
+I am currently serving as a postdoctoral fellow at [Department of Logistics and Maritime Studies](https://www.polyu.edu.hk/lms/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk). If you are seeking any form of **academic cooperation**, please feel free to email me at <x.xin@polyu.edu.hk> or <xu-david.xin@connect.polyu.hk>.
 
-I graduated from [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/) (Supervisor: [Prof. Shuaian Wang](https://sites.google.com/site/wangshuaian/)) & [Tongji University](https://en.tongji.edu.cn/p/#/) (Supervisor: [Prof. Xiaoli Wang](https://sem.tongji.edu.cn/semen/12017.html)), earning two PhD degrees. Now I am a postdoctoral fellow at [Department of Logistics and Maritime Studies](https://www.polyu.edu.hk/lms/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). I also collaborate with [Prof. Zhongzhen Yang](https://hyxy.nbu.edu.cn/info/2692/45955.htm), [Prof. Kang Chen](https://scholar.google.com.hk/citations?user=iaLX5Y8AAAAJ) and [Mr. Tao Zhang](https://zhangtao-david.github.io/) closely. So far, I have published 30+ SCI/SSCI papers with 
- <a href='https://scholar.google.com.hk/citations?user=EPQMk1kAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+I graduated from [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/) (Supervisor: [Prof. Shuaian Wang](https://sites.google.com/site/wangshuaian/)) & [Tongji University](https://en.tongji.edu.cn/p/#/) (Supervisor: [Prof. Xiaoli Wang](https://sem.tongji.edu.cn/semen/12017.html)), earning two PhD degrees. I also collaborate with [Prof. Zhongzhen Yang](https://hyxy.nbu.edu.cn/info/2692/45955.htm), [Prof. Kang Chen](https://scholar.google.com.hk/citations?user=iaLX5Y8AAAAJ) and [Mr. Tao Zhang](https://zhangtao-david.github.io/) closely.
+
+So far, I have published 30+ SCI/SSCI indexed papers with 
+ <a href='https://scholar.google.com.hk/citations?user=EPQMk1kAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international journals such as TR-Part B, TR-Part C, COR, and IJPR.
 
 My research interest includes:
 - Port management (e.g., berth allocation, berth allocation and quay crane assignment)
