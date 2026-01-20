@@ -62,7 +62,7 @@ My research interest includes:
 <div class='paper-box-text' markdown="1">
 
 -	`Xin, X.`, Wang, S., & Zhang, T. (2025). Truck-drone supported humanitarian relief logistics network design: A two-stage distributionally robust optimization approach. *Transportation Research Part C: Emerging Technologies*, 178, 105231. doi: [10.1016/j.trc.2025.105231](https://doi.org/10.1016/j.trc.2025.105231)
-[[HTML]](https://doi.org/10.1016/j.trc.2025.105231) [[PDF]](https://www.sciencedirect.com/science/article/pii/S0968090X25002359)
+[[HTML]](https://doi.org/10.1016/j.trc.2025.105231) [[PDF]](/pdf/TRB_2025.pdf)
 
 </div>
 </div>
@@ -85,7 +85,7 @@ My research interest includes:
 
 - `Xin, X.`, Wang, X., Chen, Z., & Chen, K. (2021). Coastal shuttle tanker inventory routing model with a discrete loaded quantity. *Applied Economics*, 53, 6120-6137. [[HTML]](https://www.tandfonline.com/doi/abs/10.1080/00036846.2021.1918625)
 
-- Zhang, T., Wang, S., & `Xin, X*`. (2026). Humanitarian relief logistics network design considering facility location, inventory pre-positioning and evacuation planning: A two-stage distributionally robust optimization approach. *Computers & Operations Research*, xx, xx.
+- Zhang, T., Wang, S., & `Xin, X*`. (2026). Humanitarian relief logistics network design considering facility location, inventory pre-positioning and evacuation planning: A two-stage distributionally robust optimization approach. *Computers & Operations Research*, 189, 107390. [[HTML]](https://doi.org/10.1016/j.cor.2026.107390) [[PDF]](/pdf/COR_2026.pdf)
 
 - Liu, M., `Xin, X.*`, Wang, X., Zhang, T., & Chen, K. (2025). Dual-channel slot sales strategy for container liner shipping companies with blockchain technology adoption. *Transport Policy*, 162, 200-220. [[HTML]](https://www.sciencedirect.com/science/article/pii/S0967070X24003809)
 
