@@ -53,7 +53,7 @@ My research interest includes:
 <div class='paper-box-text' markdown="1">
 
 -	Zhang, T., Wang, S., & `Xin, X*`. (2025). Liner fleet deployment and slot allocation problem: A distributionally robust optimization model with joint chance constraints. *Transportation Research Part B: Methodological*, 197, 103236. doi: [10.1016/j.trb.2025.103236](https://doi.org/10.1016/j.trb.2025.103236)
-[[HTML]](https://doi.org/10.1016/j.trb.2025.103236) [[PDF]](https://www.sciencedirect.com/science/article/pii/S0191261525000852)
+[[HTML]](https://doi.org/10.1016/j.trb.2025.103236) [[PDF]](/pdf/TRB_2025.pdf)
 
 </div>
 </div>
@@ -62,7 +62,7 @@ My research interest includes:
 <div class='paper-box-text' markdown="1">
 
 -	`Xin, X.`, Wang, S., & Zhang, T. (2025). Truck-drone supported humanitarian relief logistics network design: A two-stage distributionally robust optimization approach. *Transportation Research Part C: Emerging Technologies*, 178, 105231. doi: [10.1016/j.trc.2025.105231](https://doi.org/10.1016/j.trc.2025.105231)
-[[HTML]](https://doi.org/10.1016/j.trc.2025.105231) [[PDF]](/pdf/TRB_2025.pdf)
+[[HTML]](https://doi.org/10.1016/j.trc.2025.105231)
 
 </div>
 </div>
