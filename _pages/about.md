@@ -174,7 +174,7 @@ My research interest includes:
 
 ### Ad Hoc Journal Reviewer
 ---
-- Transportation Research Part B: Methodological; Transportation Research Part C: Emerging Technologies; Transportation Research Part E: Logistics and Transportation Review; Transport Policy; IEEE Transactions on Intelligent Transportation Systems; IEEE Transactions on Engineering Management; Computers & Operations Research; Computers in Industry; Computers & Industrial Engineering; Maritime Policy & Management; Maritime Economics & Logistics; Applied Economics; Applied Energy; Cities; International Journal of Shipping and Transport Logistics; Research in Transportation Economics; International Journal of Logistics; Advanced Engineering Informatics; Ocean & Coastal Management
+- Transportation Research Part B: Methodological; Transportation Research Part C: Emerging Technologies; Transportation Research Part E: Logistics and Transportation Review; Transport Policy; IEEE Transactions on Intelligent Transportation Systems; IEEE Transactions on Engineering Management; Computers & Operations Research; Annals of Operations Research; Computers in Industry; Computers & Industrial Engineering; Maritime Policy & Management; Maritime Economics & Logistics; Applied Economics; Applied Energy; Cities; International Journal of Shipping and Transport Logistics; Research in Transportation Economics; International Journal of Logistics; Advanced Engineering Informatics; Ocean & Coastal Management
 
 <span class='anchor' id='-friends'></span>
 
