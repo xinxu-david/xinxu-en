@@ -23,7 +23,7 @@ I am currently serving as a postdoctoral fellow at [Department of Logistics and 
 I graduated from [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/) (Supervisor: [Prof. Shuaian Wang](https://sites.google.com/site/wangshuaian/)) & [Tongji University](https://en.tongji.edu.cn/p/#/) (Supervisor: [Prof. Xiaoli Wang](https://sem.tongji.edu.cn/semen/12017.html)), earning two PhD degrees. I also collaborate with [Prof. Zhongzhen Yang](https://hyxy.nbu.edu.cn/info/2692/45955.htm), [Prof. Kang Chen](https://scholar.google.com.hk/citations?user=iaLX5Y8AAAAJ) and [Mr. Tao Zhang](https://zhangtao-david.github.io/) closely.
 
 So far, I have published 40+ SCI/SSCI indexed papers with 
- <a href='https://scholar.google.com.hk/citations?user=EPQMk1kAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> and H-index 21 at the top international journals such as TR-Part B, TR-Part C, COR, and IJPR.
+ <a href='https://scholar.google.com.hk/citations?user=EPQMk1kAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> and H-index 21 at the top international journals such as TR-Part B, TR-Part C, TR-Part E, COR, and IJPR.
 
 My research interest includes:
 - Port management (e.g., berth allocation, berth allocation and quay crane assignment)
