@@ -182,3 +182,4 @@ My research interest includes:
 
 # 🤟 Friends
 - Mr. [Tao Zhang](https://zhangtao-david.github.io/) (A joint PhD student in The Hong Kong Polytechnic University & Tongji University. Focusing on logistics system optimization, shipping management.)
+- Dr. [Qiangqiang Jiang](https://hyxy.nbu.edu.cn/info/2652/54836.htm) (A lecturer in Ningbo University. Focusing on intelligent transportation and smart shipping, scheduling optimization, deep reinforcement learning, low-altitude technology.)
