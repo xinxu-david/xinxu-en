@@ -141,8 +141,9 @@ My research interest includes:
 - *2023.08* Win the `National 2nd Prize` and `National 3rd Prize` in the 16th National College Social Practice and Science Contest on Energy Saving & Emission Reduction
 - *2024.08* Win the `National 2nd Prize` in the 17th National College Social Practice and Science Contest on Energy Saving & Emission Reduction
 - *2025.05* Win the `National 2nd Prize` in the 20th National Competition of Transport Science and Technology for Students (NACTranS) (Instructor: Prof. Shuaian Wang) [[HTML]](http://www.nactrans.net/Notice/NoticeShow/1195.html)
-- *2025.05* Guide students to win the `National 1st Prize (Outstanding Instructor Award)` in the 15th National Market Research and Analysis Competition [[Newsreport]](https://mp.weixin.qq.com/s?__biz=MzI1NDkxMzc4Mw==&mid=2247533603&idx=1&sn=273680150124f438eec0ad188e98a00f&chksm=eb06e43d1bef49287f63223dd513aea0ae3816599b0f480ab5e4b1edebe241c9c30fb6fa2309&scene=27)
+- *2025.05* Guide students to win the `National 1st Prize (Outstanding Instructor Award)` in the 15th National Market Research and Analysis Competition [[Newsreport]](https://mp.weixin.qq.com/s/VGZBVKPDaMLeKfMO8NFpzg)
 - *2025.08* Guide students to win the `National 3rd Prize` in the 18th National College Social Practice and Science Contest on Energy Saving & Emission Reduction
+- *2026.05* Guide students to win the `National 1st Prize` in the 16th National Market Research and Analysis Competition [[Newsreport]](https://mp.weixin.qq.com/s/eVGgmVb6GEmid_EY2nB6Yg)
 
 <span class='anchor' id='-conferences'></span>
 
