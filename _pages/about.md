@@ -103,6 +103,8 @@ My research interest includes:
 
 - Gao, S., `Xin, X.*`, Li, C., Liu, Y., & Chen, K. (2022). Container ocean shipping network design considering carbon tax and choice inertia of cargo owners. *Ocean & Coastal Management*, 216, 105986. [[HTML]](https://www.sciencedirect.com/science/article/pii/S0964569121004695)
 
+- Chen, Z., Wei, Z., Chen, K, `Xin, X.`, & Aiymbubu, K. (2026). Green liner service network design under demand uncertainty and carbon regulation: A compute-aware stochastic optimization framework. *Ocean & Coastal Management*, 279, 108249.
+
 - Chen, Z., `Xin, X.`, Aiymbubu, K., Yang, Z., Chen, J., & Chen, K. (2026). Carbon-priced LNG inventory routing with a single FSRU hub: Robust Branch-and-Price for heterogeneous fleets. *Transportation Research Part E: Logistics and Transportation Review*, 212, 104806.
 
 - Chen, K., Yi, X, `Xin, X.`, & Shan, H. (2026). Spatial evolution of liner bunkering hubs in Asia–Europe: Green fuel adoption under demand and fuel price uncertainty. *Transport Policy*, 178, 103956. [[HTML]](https://doi.org/10.1016/j.tranpol.2025.103956)
