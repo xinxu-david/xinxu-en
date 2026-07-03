@@ -49,6 +49,14 @@ My research interest includes:
 
 ### English articles
 ---
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRC 2026</div><img src='images/TRC.jpg' alt="sym" width="60%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	`Xin, X.`, Zhang, T., Pang, K.-W., Wang, S. (2025). Risk-averse battery swapping facility location and inventory for commercial electric vehicles: A distributionally robust approach. *Transportation Research Part C: Emerging Technologies*, xxx, xxx.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRB 2025</div><img src='images/TRB.jpg' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
