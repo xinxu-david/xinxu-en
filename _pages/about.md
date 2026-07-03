@@ -178,7 +178,7 @@ My research interest includes:
 - [Sustainable Horizons](https://www.sciencedirect.com/journal/sustainable-horizons) (Early Career Editorial Board Member) [[HTML]](https://www.sciencedirect.com/journal/sustainable-horizons/about/editorial-board)
 - [PLOS One](https://journals.plos.org/plosone/) (Academic Editor)
 - [Frontiers in Marine Science](https://www.frontiersin.org/journals/marine-science) (Guest Editor), SI: Challenges and Opportunities for Decarbonizing the Maritime Industry, 2024 (with K. Chen, Z. Yang and L. Xu) [[HTML]](https://www.frontiersin.org/research-topics/66593/challenges-and-opportunities-for-decarbonizing-the-maritime-industry)
-- [Systems](https://www.mdpi.com/journal/systems) (Guest Editor), SI: Advanced Transportation Systems and Logistics in Modern Cities, 2025 (with K. Chen) [[HTML]](https://www.mdpi.com/journal/systems/special_issues/29768MRM5G)
+- [Systems](https://www.mdpi.com/journal/systems) (Guest Editor), SI: Advanced Transportation Systems and Logistics in Modern Cities, 2025 (with K. Chen and Z. Yang) [[HTML]](https://www.mdpi.com/journal/systems/special_issues/29768MRM5G)
 
 ### Ad Hoc Journal Reviewer
 ---
