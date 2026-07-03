@@ -61,7 +61,7 @@ My research interest includes:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRC 2025/2026</div><img src='images/TRC.jpg' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Xin, X.`, Zhang, T., Pang, K.-W., Wang, S. (2026). Risk-averse battery swapping facility location and inventory for commercial electric vehicles: A distributionally robust approach. *Transportation Research Part C: Emerging Technologies*, xxx, xxx.
+-	`Xin, X.`, Zhang, T., Pang, K.-W., Wang, S. (2026). Risk-averse battery swapping facility location and inventory for commercial electric vehicles: A distributionally robust approach. *Transportation Research Part C: Emerging Technologies*, xxx, xxxxx.
 
 -	`Xin, X.`, Wang, S., & Zhang, T. (2025). Truck-drone supported humanitarian relief logistics network design: A two-stage distributionally robust optimization approach. *Transportation Research Part C: Emerging Technologies*, 178, 105231. doi: [10.1016/j.trc.2025.105231](https://doi.org/10.1016/j.trc.2025.105231)
 [[HTML]](https://doi.org/10.1016/j.trc.2025.105231)
