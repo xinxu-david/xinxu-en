@@ -61,7 +61,7 @@ My research interest includes:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRC 2025/2026</div><img src='images/TRC.jpg' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Xin, X.`, Zhang, T., Pang, K.-W., Wang, S. (2026). Risk-averse battery swapping facility location and inventory for commercial electric vehicles: A distributionally robust approach. *Transportation Research Part C: Emerging Technologies*, xxx, xxxxx.
+-	`Xin, X.`, Zhang, T., Pang, K.-W., Wang, S. (2026). Risk-averse battery swapping facility location and inventory for commercial electric vehicles: A distributionally robust approach. *Transportation Research Part C: Emerging Technologies*, xxx, xxx.
 
 -	`Xin, X.`, Wang, S., & Zhang, T. (2025). Truck-drone supported humanitarian relief logistics network design: A two-stage distributionally robust optimization approach. *Transportation Research Part C: Emerging Technologies*, 178, 105231. doi: [10.1016/j.trc.2025.105231](https://doi.org/10.1016/j.trc.2025.105231)
 [[HTML]](https://doi.org/10.1016/j.trc.2025.105231)
@@ -175,6 +175,7 @@ My research interest includes:
 
 ### Editorship
 ---
+- [Sustainable Horizons](https://www.sciencedirect.com/journal/sustainable-horizons) (Early Career Editorial Board Member) [[HTML]](https://www.sciencedirect.com/journal/sustainable-horizons/about/editorial-board)
 - [PLOS One](https://journals.plos.org/plosone/) (Academic Editor)
 - [Frontiers in Marine Science](https://www.frontiersin.org/journals/marine-science) (Guest Editor), SI: Challenges and Opportunities for Decarbonizing the Maritime Industry, 2024 (with K. Chen, Z. Yang and L. Xu) [[HTML]](https://www.frontiersin.org/research-topics/66593/challenges-and-opportunities-for-decarbonizing-the-maritime-industry)
 - [Systems](https://www.mdpi.com/journal/systems) (Guest Editor), SI: Advanced Transportation Systems and Logistics in Modern Cities, 2025 (with K. Chen) [[HTML]](https://www.mdpi.com/journal/systems/special_issues/29768MRM5G)
