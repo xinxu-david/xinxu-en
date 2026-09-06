@@ -52,7 +52,7 @@ My research interest includes:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRB 2025/2026</div><img src='images/TRB.jpg' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Chen, K., Wang, Z., Zong, M., Yang, Z., Chen, J., & `Xin, X*`. (2026). Joint capacity planning and dynamic allocation for container leasing with asymmetric substitution *Transportation Research Part B: Methodological*, xxx, xxxxxx.
+-	Chen, K., Wang, Z., Zong, M., Yang, Z., Chen, J., & `Xin, X*`. (2026). Joint capacity planning and dynamic allocation for container leasing with asymmetric substitution. *Transportation Research Part B: Methodological*, xxx, xxxxxx.
 
 -	Liu, M., `Xin, X.`, Wang, X., & Jiang, C. (2026). Blockchain investment analysis for promoting rail–sea intermodal development: Should the rail carrier or the maritime carrier invest? *Transportation Research Part B: Methodological*, 213, 103571. doi: [10.1016/j.trb.2026.103571](https://doi.org/10.1016/j.trb.2026.103571) [[HTML]](https://doi.org/10.1016/j.trb.2026.103571)
 
