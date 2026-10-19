@@ -32,7 +32,8 @@ My research interest includes:
 - Emergency management (e.g., humanitarian logistics network design)
 
 # 💼 Work experience
-- *2025.11 - Present*, <a href="https://www.polyu.edu.hk/"><img class="svg" src="/images/PolyU_logo.svg" width="29pt"></a> The Hong Kong Polytechnic University, [Department of Logistics and Maritime Studies](https://www.polyu.edu.hk/lms/), Hong Kong Special Administrative Region, Postdoctoral fellow (In cooperation with [Prof. Shuaian Wang](https://sites.google.com/site/wangshuaian/home) and [Prof. Anthony Pang](https://www.polyu.edu.hk/lms/people/academic-staff/anthony-pang/)).
+- *2027.01 - Present*, <a href="https://www.polyu.edu.hk/"><img class="svg" src="/images/PolyU_logo.svg" width="29pt"></a> The Hong Kong Polytechnic University, [Department of Logistics and Maritime Studies](https://www.polyu.edu.hk/lms/), Hong Kong Special Administrative Region, PolyU Distinguished Postdoctoral Fellow (In cooperation with [Prof. Shuaian Wang](https://sites.google.com/site/wangshuaian/home) and [Prof. Yong (Jimmy) Jin](https://www.polyu.edu.hk/lms/people/academic-staff/jimmy-jin/)).
+- *2025.11 - 2026.12*, <a href="https://www.polyu.edu.hk/"><img class="svg" src="/images/PolyU_logo.svg" width="29pt"></a> The Hong Kong Polytechnic University, [Department of Logistics and Maritime Studies](https://www.polyu.edu.hk/lms/), Hong Kong Special Administrative Region, Postdoctoral Fellow (In cooperation with [Prof. Shuaian Wang](https://sites.google.com/site/wangshuaian/home) and [Prof. Anthony Pang](https://www.polyu.edu.hk/lms/people/academic-staff/anthony-pang/)).
 
 <span class='anchor' id='-educations'></span>
 
