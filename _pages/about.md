@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Hi there! 👋
-I am currently serving as a postdoctoral fellow at [Department of Logistics and Maritime Studies](https://www.polyu.edu.hk/lms/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk). If you are seeking any form of **academic cooperation**, please feel free to email me at <x.xin@polyu.edu.hk> or <xu-david.xin@connect.polyu.hk>.
+I am currently serving as the PolyU Distinguished Postdoctoral Fellow at [Department of Logistics and Maritime Studies](https://www.polyu.edu.hk/lms/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk). If you are seeking any form of **academic cooperation**, please feel free to email me at <x.xin@polyu.edu.hk> or <xu-david.xin@connect.polyu.hk>.
 
 I graduated from [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/) (Supervisor: [Prof. Shuaian Wang](https://sites.google.com/site/wangshuaian/)) & [Tongji University](https://en.tongji.edu.cn/p/#/) (Supervisor: [Prof. Xiaoli Wang](https://sem.tongji.edu.cn/semen/12017.html)), earning two PhD degrees. I also collaborate with [Prof. Zhongzhen Yang](https://hyxy.nbu.edu.cn/info/2692/45955.htm), [Prof. Kang Chen](https://scholar.google.com.hk/citations?user=iaLX5Y8AAAAJ) and [Mr. Tao Zhang](https://zhangtao-david.github.io/) closely.
 
