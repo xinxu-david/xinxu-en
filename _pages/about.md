@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Hi there! 👋
-I am currently serving as the PolyU Distinguished Postdoctoral Fellow at [Department of Logistics and Maritime Studies](https://www.polyu.edu.hk/lms/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk). If you are seeking any form of **academic cooperation**, please feel free to email me at <x.xin@polyu.edu.hk> or <xu-david.xin@connect.polyu.hk>.
+I am currently serving as the PolyU Distinguished Postdoctoral Fellow at [Department of Logistics and Maritime Studies](https://www.polyu.edu.hk/lms/), [Faculty of Business](https://www.polyu.edu.hk/fb/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk). If you are seeking any form of **academic cooperation**, please feel free to email me at <x.xin@polyu.edu.hk> or <xu-david.xin@connect.polyu.hk>.
 
 I graduated from [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/) (Supervisor: [Prof. Shuaian Wang](https://sites.google.com/site/wangshuaian/)) & [Tongji University](https://en.tongji.edu.cn/p/#/) (Supervisor: [Prof. Xiaoli Wang](https://sem.tongji.edu.cn/semen/12017.html)), earning two PhD degrees. I also collaborate with [Prof. Zhongzhen Yang](https://hyxy.nbu.edu.cn/info/2692/45955.htm), [Prof. Kang Chen](https://scholar.google.com.hk/citations?user=iaLX5Y8AAAAJ) and [Mr. Tao Zhang](https://zhangtao-david.github.io/) closely.
 
@@ -29,7 +29,7 @@ My research interest includes:
 - Port management (e.g., berth allocation, berth allocation and quay crane assignment)
 - Shipping management (e.g., liner shipping network design, vessel scheduling)
 - Transportation and logistics system optimization (e.g., electric vehicle transportation network design, flow shop scheduling)
-- Emergency management (e.g., humanitarian logistics network design)
+- Emergency management (e.g., humanitarian logistics network design, truck and drone delivery)
 
 # 💼 Work experience
 - *2027.01 - Present*, <a href="https://www.polyu.edu.hk/"><img class="svg" src="/images/PolyU_logo.svg" width="29pt"></a> The Hong Kong Polytechnic University, [Department of Logistics and Maritime Studies](https://www.polyu.edu.hk/lms/), Hong Kong Special Administrative Region, PolyU Distinguished Postdoctoral Fellow (In cooperation with [Prof. Shuaian Wang](https://sites.google.com/site/wangshuaian/home) and [Prof. Yong (Jimmy) Jin](https://www.polyu.edu.hk/lms/people/academic-staff/jimmy-jin/)).
