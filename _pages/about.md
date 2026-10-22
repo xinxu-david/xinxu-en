@@ -31,16 +31,16 @@ My research interests include:
 - Emergency management (e.g., humanitarian logistics network design, truck and drone delivery)
 
 # 💼 Work experience
-- *2027.01 - Present*, <a href="https://www.polyu.edu.hk/"><img class="svg" src="/images/PolyU_logo.svg" width="29pt"></a> The Hong Kong Polytechnic University, [Department of Logistics and Maritime Studies](https://www.polyu.edu.hk/lms/), Hong Kong Special Administrative Region, PolyU Distinguished Postdoctoral Fellow (In cooperation with [Prof. Shuaian Wang](https://sites.google.com/site/wangshuaian/home) and [Prof. Yong (Jimmy) Jin](https://www.polyu.edu.hk/lms/people/academic-staff/jimmy-jin/)).
-- *2025.11 - 2026.12*, <a href="https://www.polyu.edu.hk/"><img class="svg" src="/images/PolyU_logo.svg" width="29pt"></a> The Hong Kong Polytechnic University, [Department of Logistics and Maritime Studies](https://www.polyu.edu.hk/lms/), Hong Kong Special Administrative Region, Postdoctoral Fellow (In cooperation with [Prof. Shuaian Wang](https://sites.google.com/site/wangshuaian/home) and [Prof. Anthony Pang](https://www.polyu.edu.hk/lms/people/academic-staff/anthony-pang/)).
+- *2027.01 - Present*, <a href="https://www.polyu.edu.hk/"><img class="svg" src="/images/PolyU_logo.svg" width="29pt"></a> The Hong Kong Polytechnic University, [Department of Logistics and Maritime Studies](https://www.polyu.edu.hk/lms/), Hong Kong Special Administrative Region, PolyU Distinguished Postdoctoral Fellow (Working with [Prof. Shuaian Wang](https://sites.google.com/site/wangshuaian/home) and [Prof. Yong (Jimmy) Jin](https://www.polyu.edu.hk/lms/people/academic-staff/jimmy-jin/)).
+- *2025.11 - 2026.12*, <a href="https://www.polyu.edu.hk/"><img class="svg" src="/images/PolyU_logo.svg" width="29pt"></a> The Hong Kong Polytechnic University, [Department of Logistics and Maritime Studies](https://www.polyu.edu.hk/lms/), Hong Kong Special Administrative Region, Postdoctoral Fellow (Working with [Prof. Shuaian Wang](https://sites.google.com/site/wangshuaian/home) and [Prof. Anthony Pang](https://www.polyu.edu.hk/lms/people/academic-staff/anthony-pang/)).
 
-<span class='anchor' id='-educations'></span>
+<span class='anchor' id='-education'></span>
 
-# 🎓 Educations
+# 🎓 Education
 
 - *2023.09 - 2025.10*, <a href="https://www.polyu.edu.hk/"><img class="svg" src="/images/PolyU_logo.svg" width="29pt"></a> The Hong Kong Polytechnic University, [Department of Logistics and Maritime Studies](https://www.polyu.edu.hk/lms/), Hong Kong Special Administrative Region, PhD (Research area: Transport and Logistics Management, Supervisor: [Prof. Shuaian Wang](https://sites.google.com/site/wangshuaian/home)). [[Thesis]](https://theses.lib.polyu.edu.hk/handle/200/14161)
 - *2020.03 - 2025.12*, <a href="https://en.tongji.edu.cn/p/#/"><img class="svg" src="/images/Tongji_logo.svg" width="27pt"></a> Tongji University, [School of Economics and Management](https://sem.tongji.edu.cn/semen/), Shanghai, Doctor of Management Science (Supervisor: [Prof. Xiaoli Wang](https://sem.tongji.edu.cn/semen/12017.html)).
-- *2014.09 - 2018.06*, <a href="http://english.dlmu.edu.cn/"><img class="svg" src="/images/DMU_logo.svg" width="25pt"></a> Dalian Maritime University, [School of Maritime Economics and Management](https://hg.dlmu.edu.cn/English/About_the_School/General_Information.htm), Dalian, Liaoning, Bachelor, GPA: 4.22/5，Rank: 1/32.
+- *2014.09 - 2018.06*, <a href="http://english.dlmu.edu.cn/"><img class="svg" src="/images/DMU_logo.svg" width="25pt"></a> Dalian Maritime University, [School of Maritime Economics and Management](https://hg.dlmu.edu.cn/English/About_the_School/General_Information.htm), Dalian, Liaoning, Bachelor’s degree, GPA: 4.22/5, Rank: 1/32.
  
 
 <span class='anchor' id='-publications'></span>
@@ -48,16 +48,17 @@ My research interests include:
 # 📝 Publications 
 
 ### English articles
+
 ---
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRB 2025/2026</div><img src='images/TRB.jpg' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Chen, K., Wang, Z., Zong, M., Yang, Z., Chen, J., & `Xin, X*`. (2026). Joint capacity planning and dynamic allocation for container leasing with asymmetric substitution. *Transportation Research Part B: Methodological*, 214, 103602. doi: [10.1016/j.trb.2026.103602](https://doi.org/10.1016/j.trb.2026.103602) [[HTML]](https://doi.org/10.1016/j.trb.2026.103602)
+- Chen, K., Wang, Z., Zong, M., Yang, Z., Chen, J., & `Xin, X.*` (2026). Joint capacity planning and dynamic allocation for container leasing with asymmetric substitution. **Transportation Research Part B: Methodological**, 214, 103602. doi: [10.1016/j.trb.2026.103602](https://doi.org/10.1016/j.trb.2026.103602) [[HTML]](https://doi.org/10.1016/j.trb.2026.103602)
 
--	Liu, M., `Xin, X.`, Wang, X., & Jiang, C. (2026). Blockchain investment analysis for promoting rail–sea intermodal development: Should the rail carrier or the maritime carrier invest? *Transportation Research Part B: Methodological*, 213, 103571. doi: [10.1016/j.trb.2026.103571](https://doi.org/10.1016/j.trb.2026.103571) [[HTML]](https://doi.org/10.1016/j.trb.2026.103571)
+- Liu, M., `Xin, X.`, Wang, X., & Jiang, C. (2026). Blockchain investment analysis for promoting rail–sea intermodal development: Should the rail carrier or the maritime carrier invest? **Transportation Research Part B: Methodological**, 213, 103571. doi: [10.1016/j.trb.2026.103571](https://doi.org/10.1016/j.trb.2026.103571) [[HTML]](https://doi.org/10.1016/j.trb.2026.103571)
 
--	Zhang, T., Wang, S., & `Xin, X*`. (2025). Liner fleet deployment and slot allocation problem: A distributionally robust optimization model with joint chance constraints. *Transportation Research Part B: Methodological*, 197, 103236. doi: [10.1016/j.trb.2025.103236](https://doi.org/10.1016/j.trb.2025.103236)
-[[HTML]](https://doi.org/10.1016/j.trb.2025.103236) [[PDF]](/pdf/TRB_2025.pdf)
+- Zhang, T., Wang, S., & `Xin, X.*` (2025). Liner fleet deployment and slot allocation problem: A distributionally robust optimization model with joint chance constraints. **Transportation Research Part B: Methodological**, 197, 103236. doi: [10.1016/j.trb.2025.103236](https://doi.org/10.1016/j.trb.2025.103236) [[HTML]](https://doi.org/10.1016/j.trb.2025.103236) [[PDF]](/pdf/TRB_2025.pdf)
 
 </div>
 </div>
@@ -65,64 +66,64 @@ My research interests include:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRC 2025/2026</div><img src='images/TRC.jpg' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Xin, X.`, Zhang, T., Pang, K.-W., Wang, S. (2026). Risk-averse battery swapping facility location and inventory for commercial electric vehicles: A distributionally robust approach. *Transportation Research Part C: Emerging Technologies*, 192, 105855. doi: [10.1016/j.trc.2026.105855](https://doi.org/10.1016/j.trc.2026.105855)
+- `Xin, X.`, Zhang, T., Pang, K.-W., & Wang, S. (2026). Risk-averse battery swapping facility location and inventory for commercial electric vehicles: A distributionally robust approach. **Transportation Research Part C: Emerging Technologies**, 192, 105855. doi: [10.1016/j.trc.2026.105855](https://doi.org/10.1016/j.trc.2026.105855)
 
--	`Xin, X.`, Wang, S., & Zhang, T. (2025). Truck-drone supported humanitarian relief logistics network design: A two-stage distributionally robust optimization approach. *Transportation Research Part C: Emerging Technologies*, 178, 105231. doi: [10.1016/j.trc.2025.105231](https://doi.org/10.1016/j.trc.2025.105231)
-[[HTML]](https://doi.org/10.1016/j.trc.2025.105231)
+- `Xin, X.`, Wang, S., & Zhang, T. (2025). Truck-drone supported humanitarian relief logistics network design: A two-stage distributionally robust optimization approach. **Transportation Research Part C: Emerging Technologies**, 178, 105231. doi: [10.1016/j.trc.2025.105231](https://doi.org/10.1016/j.trc.2025.105231) [[HTML]](https://doi.org/10.1016/j.trc.2025.105231)
 
 </div>
 </div>
 
-- `*` represents corresponding author.
+- `*` Corresponding author.
 
-- `Xin, X.`, Zhang, T., Pang, K.-W., Zhao, J., & Wang, S. (2026). Distributionally robust location-inventory planning of commercial electric vehicle battery swapping stations with joint chance constraints. *Energy*, 355, 141090. [[HTML]](https://www.sciencedirect.com/science/article/pii/S0360544226011953?via%3Dihub) [[PDF]](/pdf/EGY_2026.pdf)
+- `Xin, X.`, Zhang, T., Pang, K.-W., Zhao, J., & Wang, S. (2026). Distributionally robust location-inventory planning of commercial electric vehicle battery swapping stations with joint chance constraints. **Energy**, 355, 141090. [[HTML]](https://www.sciencedirect.com/science/article/pii/S0360544226011953?via%3Dihub) [[PDF]](/pdf/EGY_2026.pdf)
 
-- `Xin, X.`, Zhang, T., Xiang, Z., & Liu, M. (2025). Battery electric vehicle transportation network robust pricing-infrastructure location model with boundedly rational travelers. *Applied Energy*, 386, 125606. [[HTML]](https://www.sciencedirect.com/science/article/pii/S0306261925003368)
+- `Xin, X.`, Zhang, T., Xiang, Z., & Liu, M. (2025). Battery electric vehicle transportation network robust pricing-infrastructure location model with boundedly rational travelers. **Applied Energy**, 386, 125606. [[HTML]](https://www.sciencedirect.com/science/article/pii/S0306261925003368)
 
-- `Xin, X.`, Zhang, T., Wang, X., He, F., & Wu, L. (2025). Risk-averse distributionally robust optimization for construction waste reverse logistics with a joint chance constraint. *Computers & Operations Research*, 173, 106829. [[HTML]](https://www.sciencedirect.com/science/article/pii/S0305054824003010)
+- `Xin, X.`, Zhang, T., Wang, X., He, F., & Wu, L. (2025). Risk-averse distributionally robust optimization for construction waste reverse logistics with a joint chance constraint. **Computers & Operations Research**, 173, 106829. [[HTML]](https://www.sciencedirect.com/science/article/pii/S0305054824003010)
 
-- `Xin, X.`, Zhang, T., He, F., Zhang, W., & Chen, K. (2023). Assessing and simulating changes in ecosystem service value based on land use/cover change in coastal cities: A case study of Shanghai, China. Ocean & Coastal Management, 239, 106591. [[HTML]](https://www.sciencedirect.com/science/article/pii/S0964569123001163)
+- `Xin, X.`, Zhang, T., He, F., Zhang, W., & Chen, K. (2023). Assessing and simulating changes in ecosystem service value based on land use/cover change in coastal cities: A case study of Shanghai, China. **Ocean & Coastal Management**, 239, 106591. [[HTML]](https://www.sciencedirect.com/science/article/pii/S0964569123001163)
 
-- `Xin, X.`, Jiang, Q., Li, C., Li, S., & Chen, K. (2023). Permutation flow shop energy-efficient scheduling with a position-based learning effect. *International Journal of Production Research*, 61(2), 382-409. [[HTML]](https://www.tandfonline.com/doi/abs/10.1080/00207543.2021.2008041)
+- `Xin, X.`, Jiang, Q., Li, C., Li, S., & Chen, K. (2023). Permutation flow shop energy-efficient scheduling with a position-based learning effect. **International Journal of Production Research**, 61(2), 382-409. [[HTML]](https://www.tandfonline.com/doi/abs/10.1080/00207543.2021.2008041)
 
-- `Xin, X.`, Wang, X., Ma, L., Chen, K., & Ye, M. (2022). Shipping network design–infrastructure investment joint optimization model: a case study of West Africa. *Maritime Policy & Management*, 49(5), 620-646. [[HTML]](https://www.tandfonline.com/doi/abs/10.1080/03088839.2021.1930225)
+- `Xin, X.`, Wang, X., Ma, L., Chen, K., & Ye, M. (2022). Shipping network design–infrastructure investment joint optimization model: a case study of West Africa. **Maritime Policy & Management**, 49(5), 620-646. [[HTML]](https://www.tandfonline.com/doi/abs/10.1080/03088839.2021.1930225)
 
-- `Xin, X.`, Liu, M., Wang, X., Chen, H., & Chen, K. (2022). Investment strategy for blockchain technology in a shipping supply chain. *Ocean & Coastal Management*, 226, 106263. [[HTML]](https://www.sciencedirect.com/science/article/pii/S0964569122002393)
+- `Xin, X.`, Liu, M., Wang, X., Chen, H., & Chen, K. (2022). Investment strategy for blockchain technology in a shipping supply chain. **Ocean & Coastal Management**, 226, 106263. [[HTML]](https://www.sciencedirect.com/science/article/pii/S0964569122002393)
 
-- `Xin, X.`, Liu, M., Wang, X., Zhang, T., Gao, L., & Chen, K. (2022). Evolutionary analysis of Japan's nuclear wastewater discharge events considering the impact of participants’ emotions. *Ocean & Coastal Management*, 225, 106231. [[HTML]](https://www.sciencedirect.com/science/article/pii/S0964569122002071)
+- `Xin, X.`, Liu, M., Wang, X., Zhang, T., Gao, L., & Chen, K. (2022). Evolutionary analysis of Japan's nuclear wastewater discharge events considering the impact of participants’ emotions. **Ocean & Coastal Management**, 225, 106231. [[HTML]](https://www.sciencedirect.com/science/article/pii/S0964569122002071)
 
-- `Xin, X.`, Wang, X., Chen, Z., & Chen, K. (2021). Coastal shuttle tanker inventory routing model with a discrete loaded quantity. *Applied Economics*, 53, 6120-6137. [[HTML]](https://www.tandfonline.com/doi/abs/10.1080/00036846.2021.1918625)
+- `Xin, X.`, Wang, X., Chen, Z., & Chen, K. (2021). Coastal shuttle tanker inventory routing model with a discrete loaded quantity. **Applied Economics**, 53, 6120-6137. [[HTML]](https://www.tandfonline.com/doi/abs/10.1080/00036846.2021.1918625)
 
-- Zhang, T., Wang, S., & `Xin, X*`. (2026). Humanitarian relief logistics network design considering facility location, inventory pre-positioning and evacuation planning: A two-stage distributionally robust optimization approach. *Computers & Operations Research*, 189, 107390. [[HTML]](https://doi.org/10.1016/j.cor.2026.107390) [[PDF]](/pdf/COR_2026.pdf)
+- Zhang, T., Wang, S., & `Xin, X.*` (2026). Humanitarian relief logistics network design considering facility location, inventory pre-positioning and evacuation planning: A two-stage distributionally robust optimization approach. **Computers & Operations Research**, 189, 107390. [[HTML]](https://doi.org/10.1016/j.cor.2026.107390) [[PDF]](/pdf/COR_2026.pdf)
 
-- Liu, M., `Xin, X.*`, Wang, X., Zhang, T., & Chen, K. (2025). Dual-channel slot sales strategy for container liner shipping companies with blockchain technology adoption. *Transport Policy*, 162, 200-220. [[HTML]](https://www.sciencedirect.com/science/article/pii/S0967070X24003809)
+- Liu, M., `Xin, X.*`, Wang, X., Zhang, T., & Chen, K. (2025). Dual-channel slot sales strategy for container liner shipping companies with blockchain technology adoption. **Transport Policy**, 162, 200-220. [[HTML]](https://www.sciencedirect.com/science/article/pii/S0967070X24003809)
 
-- Xiang, Z., `Xin, X.*`, Zhang, T., Chen, K., & Liu, M. (2025). Asia‒Europe liner shipping network design model considering Arctic route and black carbon tax. *Ocean & Coastal Management*, 261, 107492. [[HTML]](https://www.sciencedirect.com/science/article/pii/S0964569124004770)
+- Xiang, Z., `Xin, X.*`, Zhang, T., Chen, K., & Liu, M. (2025). Asia‒Europe liner shipping network design model considering Arctic route and black carbon tax. **Ocean & Coastal Management**, 261, 107492. [[HTML]](https://www.sciencedirect.com/science/article/pii/S0964569124004770)
 
-- Chen, K., Su, S., Gong, Y., `Xin, X.*`, & Zeng, Q. (2024). Coastal transportation system green policy design model based on shipping network design. *International Journal of Logistics Research and Applications*, 27(3), 428-449. [[HTML]](https://www.tandfonline.com/doi/abs/10.1080/13675567.2021.1940112)
+- Chen, K., Su, S., Gong, Y., `Xin, X.*`, & Zeng, Q. (2024). Coastal transportation system green policy design model based on shipping network design. **International Journal of Logistics Research and Applications**, 27(3), 428-449. [[HTML]](https://www.tandfonline.com/doi/abs/10.1080/13675567.2021.1940112)
 
-- Li, Z., Wang, L., Wang, G., `Xin, X.*`, Chen, K., & Zhang, T. (2024). Investment and subsidy strategy for low-carbon port operation with blockchain adoption. *Ocean & Coastal Management*, 248, 106966. [[HTML]](https://www.sciencedirect.com/science/article/pii/S096456912300491X)
+- Li, Z., Wang, L., Wang, G., `Xin, X.*`, Chen, K., & Zhang, T. (2024). Investment and subsidy strategy for low-carbon port operation with blockchain adoption. **Ocean & Coastal Management**, 248, 106966. [[HTML]](https://www.sciencedirect.com/science/article/pii/S096456912300491X)
 
-- Chen, K., Guo, J., `Xin, X.*`, Zhang, T., & Zhang, W. (2023). Port sustainability through integration: A port capacity and profit-sharing joint optimization approach. *Ocean & Coastal Management*, 245, 106867. [[HTML]](https://www.sciencedirect.com/science/article/pii/S0964569123003927)
+- Chen, K., Guo, J., `Xin, X.*`, Zhang, T., & Zhang, W. (2023). Port sustainability through integration: A port capacity and profit-sharing joint optimization approach. **Ocean & Coastal Management**, 245, 106867. [[HTML]](https://www.sciencedirect.com/science/article/pii/S0964569123003927)
 
-- Li, D., `Xin, X.*`, & Zhou, S. (2023). Integrated governance of the Yangtze River Delta port cluster using niche theory: A case study of Shanghai Port and Ningbo-Zhoushan Port. *Ocean & Coastal Management*, 234, 106474. `(ESI Top 1%)` [[HTML]](https://www.sciencedirect.com/science/article/pii/S0964569122004501)
+- Li, D., `Xin, X.*`, & Zhou, S. (2023). Integrated governance of the Yangtze River Delta port cluster using niche theory: A case study of Shanghai Port and Ningbo-Zhoushan Port. **Ocean & Coastal Management**, 234, 106474. `(ESI Top 1%)` [[HTML]](https://www.sciencedirect.com/science/article/pii/S0964569122004501)
 
-- Gao, S., `Xin, X.*`, Li, C., Liu, Y., & Chen, K. (2022). Container ocean shipping network design considering carbon tax and choice inertia of cargo owners. *Ocean & Coastal Management*, 216, 105986. [[HTML]](https://www.sciencedirect.com/science/article/pii/S0964569121004695)
+- Gao, S., `Xin, X.*`, Li, C., Liu, Y., & Chen, K. (2022). Container ocean shipping network design considering carbon tax and choice inertia of cargo owners. **Ocean & Coastal Management**, 216, 105986. [[HTML]](https://www.sciencedirect.com/science/article/pii/S0964569121004695)
 
-- Chen, K., Wei, Z., `Xin, X.`, Jiang, Q., Yang, Z., & Chen, J. (2027). Ex-ante distributionally robust fleet deployment and slot allocation on liner shipping networks. *Transportation Research Part E: Logistics and Transportation Review*, 217, 105201.
+- Chen, K., Wei, Z., `Xin, X.`, Jiang, Q., Yang, Z., & Chen, J. (2027). Ex-ante distributionally robust fleet deployment and slot allocation on liner shipping networks. **Transportation Research Part E: Logistics and Transportation Review**, 217, 105201.
 
-- Chen, Z., Wei, Z., Chen, K, `Xin, X.`, & Aiymbubu, K. (2026). Green liner service network design under demand uncertainty and carbon regulation: A compute-aware stochastic optimization framework. *Ocean & Coastal Management*, 279, 108249.
+- Chen, Z., Wei, Z., Chen, K., `Xin, X.`, & Aiymbubu, K. (2026). Green liner service network design under demand uncertainty and carbon regulation: A compute-aware stochastic optimization framework. **Ocean & Coastal Management**, 279, 108249.
 
-- Chen, Z., `Xin, X.`, Aiymbubu, K., Yang, Z., Chen, J., & Chen, K. (2026). Carbon-priced LNG inventory routing with a single FSRU hub: Robust Branch-and-Price for heterogeneous fleets. *Transportation Research Part E: Logistics and Transportation Review*, 212, 104806.
+- Chen, Z., `Xin, X.`, Aiymbubu, K., Yang, Z., Chen, J., & Chen, K. (2026). Carbon-priced LNG inventory routing with a single FSRU hub: Robust Branch-and-Price for heterogeneous fleets. **Transportation Research Part E: Logistics and Transportation Review**, 212, 104806.
 
-- Chen, K., Yi, X, `Xin, X.`, & Shan, H. (2026). Spatial evolution of liner bunkering hubs in Asia–Europe: Green fuel adoption under demand and fuel price uncertainty. *Transport Policy*, 178, 103956. [[HTML]](https://doi.org/10.1016/j.tranpol.2025.103956)
+- Chen, K., Yi, X., `Xin, X.`, & Shan, H. (2026). Spatial evolution of liner bunkering hubs in Asia–Europe: Green fuel adoption under demand and fuel price uncertainty. **Transport Policy**, 178, 103956. [[HTML]](https://doi.org/10.1016/j.tranpol.2025.103956)
 
-- Liu, M., Lai, K. H., Wong, C. W., `Xin, X.`, & Lun, V. Y. (2025). Smart ports for sustainable shipping: concept and practices revisited through the case study of China’s Tianjin port. *Maritime Economics & Logistics*, 27(1), 50-95. [[HTML]](https://link.springer.com/article/10.1057/s41278-024-00291-3)
+- Liu, M., Lai, K. H., Wong, C. W., `Xin, X.`, & Lun, V. Y. (2025). Smart ports for sustainable shipping: concept and practices revisited through the case study of China’s Tianjin port. **Maritime Economics & Logistics**, 27(1), 50-95. [[HTML]](https://link.springer.com/article/10.1057/s41278-024-00291-3)
 
 ### Chinese articles
+
 ---
 
-- Yang, Z., Yang Y., & `Xin, X`. (2023). Review on research of global major disaster event related port and shipping operation and management. *Journal of Traffic and Transportation Engineering*, 23(5): 1-18. (EI)<br> 杨忠振，杨云茜， `辛旭`. 全球性重大灾害事件背景下港航运营管理研究综述. *交通运输工程学报*. 2023, 23(5): 1-18. (EI) [[HTML]](https://transport.chd.edu.cn/cn/article/doi/10.19818/j.cnki.1671-1637.2023.05.001?viewType=HTML) [[PDF]](https://plugin.sowise.cn/viewpdf/88889029_48aa200e-fb27-4710-9b3d-27dfda00b4dd?_sowise_user=8448c553-0548-4f21-92a2-1fd5d6ba1e4e&articleNo=undefined&staticFilePath=/fileJTYSGCXB/journal/article/jtysgcxb/2023/5/)
+- Yang, Z., Yang, Y., & `Xin, X.` (2023). Review on research of global major disaster event related port and shipping operation and management. **Journal of Traffic and Transportation Engineering**, 23(5): 1-18. (EI)<br> 杨忠振，杨云茜，`辛旭`. 全球性重大灾害事件背景下港航运营管理研究综述. **交通运输工程学报**. 2023, 23(5): 1-18. (EI) [[HTML]](https://transport.chd.edu.cn/cn/article/doi/10.19818/j.cnki.1671-1637.2023.05.001?viewType=HTML) [[PDF]](https://plugin.sowise.cn/viewpdf/88889029_48aa200e-fb27-4710-9b3d-27dfda00b4dd?_sowise_user=8448c553-0548-4f21-92a2-1fd5d6ba1e4e&articleNo=undefined&staticFilePath=/fileJTYSGCXB/journal/article/jtysgcxb/2023/5/)
 
 <span class='anchor' id='-honors-and-awards'></span>
 
@@ -137,23 +138,23 @@ My research interests include:
 - *2025.05* Outstanding Graduate of Shanghai Universities
 
 ## 🎏 Competitions
-- *2016.05* Win the `National 2nd Prize` in the 11th National Competition of Transport Science and Technology for Students (NACTranS) (Instructor: Prof. Zhongzhen Yang)
-- *2016.06* Win the `National 2nd Prize` in the 2nd National Shipping Innovation Competition for College Students (Instructor: Prof. Kang Chen)
-- *2019.05* Win the `3rd Prize` in the Tan Kah Kee Inventors’ Award (Shanghai)
-- *2019.07* Win the `Provincial 2nd Prize` in the 9th National E-commerce “Innovation, Creativity & Entrepreneurship” Challenge for College Students
-- *2019.08* Win the `National 3rd Prize` in the 12th National College Social Practice and Science Contest on Energy Saving & Emission Reduction
-- *2019.12* Win the `National 2nd Prize` in the 16th China Post-Graduate Mathematical Contest in Modeling
-- *2020.08* Win the `National 2nd Prize` in the 13th National College Social Practice and Science Contest on Energy Saving & Emission Reduction
-- *2021.08* Win the `Provincial 2nd Prize` in 11th National E-commerce “Innovation, Creativity & Entrepreneurship” Challenge for College Students
-- *2021.10* Win the `National 3rd Prize (Bronze Award)` in the 7th China College Students’ “Internet+” Innovation and Entrepreneurship Competition
-- *2022.07* Win the `Provincial 1st Prize` in the 12th National E-commerce “Innovation, Creativity & Entrepreneurship” Challenge for College Students
-- *2022.08* Win the `National 1st Prize` in the 15th National College Social Practice and Science Contest on Energy Saving & Emission Reduction [[Newsreport]](https://news.tongji.edu.cn/info/1003/81684.htm)
-- *2023.08* Win the `National 2nd Prize` and `National 3rd Prize` in the 16th National College Social Practice and Science Contest on Energy Saving & Emission Reduction
-- *2024.08* Win the `National 2nd Prize` in the 17th National College Social Practice and Science Contest on Energy Saving & Emission Reduction
-- *2025.05* Win the `National 2nd Prize` in the 20th National Competition of Transport Science and Technology for Students (NACTranS) (Instructor: Prof. Shuaian Wang) [[HTML]](http://www.nactrans.net/Notice/NoticeShow/1195.html)
-- *2025.05* Guide students to win the `National 1st Prize (Outstanding Instructor Award)` in the 15th National Market Research and Analysis Competition [[Newsreport]](https://mp.weixin.qq.com/s/VGZBVKPDaMLeKfMO8NFpzg)
-- *2025.08* Guide students to win the `National 3rd Prize` in the 18th National College Social Practice and Science Contest on Energy Saving & Emission Reduction
-- *2026.05* Guide students to win the `National 1st Prize` in the 16th National Market Research and Analysis Competition [[Newsreport]](https://mp.weixin.qq.com/s/eVGgmVb6GEmid_EY2nB6Yg)
+- *2016.05* Won the `National 2nd Prize` in the 11th National Competition of Transport Science and Technology for Students (NACTranS) (Instructor: Prof. Zhongzhen Yang)
+- *2016.06* Won the `National 2nd Prize` in the 2nd National Shipping Innovation Competition for College Students (Instructor: Prof. Kang Chen)
+- *2019.05* Won the `3rd Prize` in the Tan Kah Kee Inventors’ Award (Shanghai)
+- *2019.07* Won the `Provincial 2nd Prize` in the 9th National E-commerce “Innovation, Creativity & Entrepreneurship” Challenge for College Students
+- *2019.08* Won the `National 3rd Prize` in the 12th National College Social Practice and Science Contest on Energy Saving & Emission Reduction
+- *2019.12* Won the `National 2nd Prize` in the 16th China Post-Graduate Mathematical Contest in Modeling
+- *2020.08* Won the `National 2nd Prize` in the 13th National College Social Practice and Science Contest on Energy Saving & Emission Reduction
+- *2021.08* Won the `Provincial 2nd Prize` in the 11th National E-commerce “Innovation, Creativity & Entrepreneurship” Challenge for College Students
+- *2021.10* Won the `National 3rd Prize (Bronze Award)` in the 7th China College Students’ “Internet+” Innovation and Entrepreneurship Competition
+- *2022.07* Won the `Provincial 1st Prize` in the 12th National E-commerce “Innovation, Creativity & Entrepreneurship” Challenge for College Students
+- *2022.08* Won the `National 1st Prize` in the 15th National College Social Practice and Science Contest on Energy Saving & Emission Reduction [[Newsreport]](https://news.tongji.edu.cn/info/1003/81684.htm)
+- *2023.08* Won the `National 2nd Prize` and `National 3rd Prize` in the 16th National College Social Practice and Science Contest on Energy Saving & Emission Reduction
+- *2024.08* Won the `National 2nd Prize` in the 17th National College Social Practice and Science Contest on Energy Saving & Emission Reduction
+- *2025.05* Won the `National 2nd Prize` in the 20th National Competition of Transport Science and Technology for Students (NACTranS) (Instructor: Prof. Shuaian Wang) [[HTML]](http://www.nactrans.net/Notice/NoticeShow/1195.html)
+- *2025.05* Guided students to win the `National 1st Prize (Outstanding Instructor Award)` in the 15th National Market Research and Analysis Competition [[Newsreport]](https://mp.weixin.qq.com/s/VGZBVKPDaMLeKfMO8NFpzg)
+- *2025.08* Guided students to win the `National 3rd Prize` in the 18th National College Social Practice and Science Contest on Energy Saving & Emission Reduction
+- *2026.05* Guided students to win the `National 1st Prize` in the 16th National Market Research and Analysis Competition [[Newsreport]](https://mp.weixin.qq.com/s/eVGgmVb6GEmid_EY2nB6Yg)
 
 <span class='anchor' id='-conferences'></span>
 
@@ -169,7 +170,7 @@ My research interests include:
 
 <span class='anchor' id='-services'></span>
 
-# 💻 Services
+# 💻 Academic Service
 
 ### Committee Service
 ---
@@ -177,9 +178,9 @@ My research interests include:
 
 ### Conference Organization
 ---
-- The 3rd PolyU Research Student Conference (PRSC 2025), 2-4 July 2025, Hong Kong: Student Organization Committee General Co-chairs. [[HTML]](https://events.polyu.edu.hk/prsc2025/organisers)
+- The 3rd PolyU Research Student Conference (PRSC 2025), 2-4 July 2025, Hong Kong: Student Organization Committee General Co-chair. [[HTML]](https://events.polyu.edu.hk/prsc2025/organisers)
 
-### Editorship
+### Editorial Service
 ---
 - [Sustainable Horizons](https://www.sciencedirect.com/journal/sustainable-horizons) (Early Career Editorial Board Member) [[HTML]](https://www.sciencedirect.com/journal/sustainable-horizons/about/editorial-board)
 - [PLOS One](https://journals.plos.org/plosone/) (Academic Editor)
@@ -195,5 +196,5 @@ My research interests include:
 <span class='anchor' id='-friends'></span>
 
 # 🤟 Friends
-- Mr. [Tao Zhang](https://zhangtao-david.github.io/) (A joint PhD student in The Hong Kong Polytechnic University & Tongji University. Focusing on logistics system optimization, shipping management.)
-- Dr. [Qiangqiang Jiang](https://hyxy.nbu.edu.cn/info/2652/54836.htm) (A lecturer in Ningbo University. Focusing on intelligent transportation and smart shipping, scheduling optimization, deep reinforcement learning, low-altitude technology.)
+- Mr. [Tao Zhang](https://zhangtao-david.github.io/) (A joint PhD student at The Hong Kong Polytechnic University & Tongji University with research interests in logistics system optimization, shipping management.)
+- Dr. [Qiangqiang Jiang](https://hyxy.nbu.edu.cn/info/2652/54836.htm) (A lecturer at Ningbo University with research interests in intelligent transportation and smart shipping, scheduling optimization, deep reinforcement learning, low-altitude technology.)
