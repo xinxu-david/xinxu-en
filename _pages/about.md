@@ -18,14 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Hi there! 👋
-I am currently serving as the PolyU Distinguished Postdoctoral Fellow at [Department of Logistics and Maritime Studies](https://www.polyu.edu.hk/lms/), [Faculty of Business](https://www.polyu.edu.hk/fb/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk). If you are seeking any form of **academic cooperation**, please feel free to email me at <x.xin@polyu.edu.hk> or <xu-david.xin@connect.polyu.hk>.
+I am currently a PolyU Distinguished Postdoctoral Fellow in the [Department of Logistics and Maritime Studies](https://www.polyu.edu.hk/lms/), [Faculty of Business](https://www.polyu.edu.hk/fb/), at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk). If you are seeking any form of **academic cooperation**, please feel free to email me at <x.xin@polyu.edu.hk> or <xu-david.xin@connect.polyu.hk>.
 
-I graduated from [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/) (Supervisor: [Prof. Shuaian Wang](https://sites.google.com/site/wangshuaian/)) & [Tongji University](https://en.tongji.edu.cn/p/#/) (Supervisor: [Prof. Xiaoli Wang](https://sem.tongji.edu.cn/semen/12017.html)), earning two PhD degrees. I also collaborate with [Prof. Zhongzhen Yang](https://hyxy.nbu.edu.cn/info/2692/45955.htm), [Prof. Kang Chen](https://scholar.google.com.hk/citations?user=iaLX5Y8AAAAJ) and [Mr. Tao Zhang](https://zhangtao-david.github.io/) closely.
+I hold two PhD degrees: one from [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/) (Supervisor: [Prof. Shuaian Wang](https://sites.google.com/site/wangshuaian/)) and one from [Tongji University](https://en.tongji.edu.cn/p/#/) (Supervisor: [Prof. Xiaoli Wang](https://sem.tongji.edu.cn/semen/12017.html)), earning two PhD degrees. I also collaborate closely with [Prof. Zhongzhen Yang](https://hyxy.nbu.edu.cn/info/2692/45955.htm), [Prof. Kang Chen](https://scholar.google.com.hk/citations?user=iaLX5Y8AAAAJ) and [Mr. Tao Zhang](https://zhangtao-david.github.io/).
 
-So far, I have published 40+ SCI/SSCI indexed papers with 
- <a href='https://scholar.google.com.hk/citations?user=EPQMk1kAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> and H-index 26 at the top international journals such as TR-Part B, TR-Part C, TR-Part E, TP, COR, and IJPR.
+I have published more than 40 papers in SCI/SSCI-indexed journals, including TR-Part B, TR-Part C, TR-Part E, TP, COR, and IJPR. According to Google Scholar, my publications have received <a href='https://scholar.google.com.hk/citations?user=EPQMk1kAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>, and my h-index is 26.
 
-My research interest includes:
+My research interests include:
 - Port management (e.g., berth allocation, berth allocation and quay crane assignment)
 - Shipping management (e.g., liner shipping network design, vessel scheduling)
 - Transportation and logistics system optimization (e.g., electric vehicle transportation network design, flow shop scheduling)
