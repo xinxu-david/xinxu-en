@@ -187,7 +187,9 @@ My research interests include:
 - [Frontiers in Marine Science](https://www.frontiersin.org/journals/marine-science) (Guest Editor)
   - SI: Governance and Policy for Sustainable Port and Shipping Systems amid Climate Change and Uncertainty, 2026 (with  K. Chen, Z. Yang and W. Zhang) [[HTML]](https://www.frontiersin.org/research-topics/84172)
   - SI: Challenges and Opportunities for Decarbonizing the Maritime Industry, 2024 (with K. Chen, Z. Yang and L. Xu) [[HTML]](https://www.frontiersin.org/research-topics/66593)
-- [Systems](https://www.mdpi.com/journal/systems) (Guest Editor), SI: Advanced Transportation Systems and Logistics in Modern Cities, 2025 (with K. Chen and Z. Yang) [[HTML]](https://www.mdpi.com/journal/systems/special_issues/29768MRM5G)
+- [Systems](https://www.mdpi.com/journal/systems) (Guest Editor),
+  - SI: Modeling and Decision-Making for Advanced Transportation and Logistics Systems, 2026 (with K. Chen and Z. Yang) [[HTML]](https://www.mdpi.com/journal/systems/special_issues/BQ0NYYK3U5)
+  - SI: Advanced Transportation Systems and Logistics in Modern Cities, 2025 (with K. Chen and Z. Yang) [[HTML]](https://www.mdpi.com/journal/systems/special_issues/29768MRM5G)
 
 ### Ad Hoc Journal Reviewer
 ---
